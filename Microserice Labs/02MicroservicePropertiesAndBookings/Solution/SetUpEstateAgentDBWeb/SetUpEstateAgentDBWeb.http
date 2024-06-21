@@ -1,0 +1,6 @@
+@SetUpEstateAgentDBWeb_HostAddress = http://localhost:5111
+
+GET {{SetUpEstateAgentDBWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
